@@ -1,0 +1,6 @@
+{
+  "name": "Component & Repair Machine Management System",
+  "description": "SLA monitoring, component repair ledger, and webhook integration control panel optimized for technical operator teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
